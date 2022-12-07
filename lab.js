@@ -288,7 +288,7 @@ console.log (wizard1.castSpell())
 
 //Code Here
 class Phone {
-  constructor (brand, model, storage, color, price, sold) {
+  constructor (brand, model, storage, color, price) {
     this.brand = brand
     this.model = model
     this.storage = storage
